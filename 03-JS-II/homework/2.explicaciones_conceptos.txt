@@ -1,0 +1,11 @@
+1. for: es un ciclo utilizado por javascript que permite realizar un bloque de codigo tantas veces como lo necesittemos.
+su sintaxis es  for (var i; i==condicion; i++){}. Se declara un indice que será utilizado en cada repeticion del ciclo el cual se repetirá hasta que se cumpla la condicion, este se incrementará segun sea necesario para no caer en un bucle infinito.
+
+2.Los operadores logicos de comparacion son:
+
+    2.1 (Y - && - AND) este permite comparar dos o mas expresiones si las condicion se cumplen retorna true.
+
+    2.2 (O - || - OR) este sirve para evaluar dos o mas expresiones si una se cumple con eso es suficiente para retornar true
+
+    2.3 (NO - ! - NOT) este permite obtener un valor booleano negando una expresion, por ejemplo if 
+    !( '1' === 1) la comparacion de num === 1 retornará false ya que son iguales en valor pero no en tipo de variable, pero al negar la expresion el valor final es true
