@@ -1,0 +1,10 @@
+variables: son espacios de memoria reservador para almacenar un valor que será utilizado en el script.
+
+strings: son denominadas cadenas y utilizadas para declarar textos utilizando "".
+
+funciones: son objetos que ejecutan un bloque de codigo especifico, utilizan () para que el codigo dentro de su scope sea ejecutado.
+
+declaraciones if. son utilizadas mayormente para saber si se cumple con una condicion o si no. dependendiendo de la condicion se ejecuta un codigo u otro.
+
+valores booleanos. toman el valor true o false dependendiendo de la condicion para la que sean utilizados.
+
