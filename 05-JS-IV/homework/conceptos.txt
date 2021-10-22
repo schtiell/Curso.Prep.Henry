@@ -1,0 +1,10 @@
+1. Objeto, es un tipo de datos que tienen informacion sobre un elemento. A diferencia de los arrays un objeto utiliza key o clave para apuntar al valor, mientras que los arreglos utilizan indices. Los objetos puede contener tipo de datos primitivos, arreglos, funciones inclusive otros objetos.
+
+2.Una propiedad es un elemento de un objeto, una caracteristica o bien una variable que tiene un tipo de datos que pertenece solo a ese objeto.
+
+Metodos, son funciones que realizan alguna tarea, se encuentran definidas dentro de los objetos y solo puede ser utilizados por instancias del mismo objeto.
+
+Bucle for in, es un ciclo utilizado para recorrer un objeto, es muy similar al bucle for tradicional.
+
+Notacion de puntos vs corchetes, es la forma mediante la cual se accedera a las propiedades o metodos del objeto. Mientras que la notacion de puntos utiliza la sintaxis nombreObjeto.propiedad o nombreObjeto.Metodo(), la notacion de corchete es muy parecida con el uso de los arrays nombreObjeto['propiedad'].
+
