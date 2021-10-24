@@ -1,0 +1,4 @@
+1. prototype: son funciones que pueden ser utilizadas como plantillas, mediate la propiedad prototype 
+pueden asignarse nuevas funciones a las clases que pueden ser utilizadas mas adelante, lo que nos permite ahorrar codigo y ahorrar memoria del equipo.
+
+2.constructor. es un metodo de una clase el cual es invocado automaticamente cuando se genera una instancia de la clase.
