@@ -1,0 +1,3 @@
+Funciones callback,
+
+Son funciones especiales o definidas por el usuario las cuales son llamadas/invocadas por una función para completar su funcionamiento. Es decir una funcion x usa como argumento de una función y. cuando se utiliza y entonces está ejecuta x.

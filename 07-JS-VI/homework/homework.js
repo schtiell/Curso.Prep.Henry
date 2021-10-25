@@ -4,10 +4,9 @@ function mayuscula(nombre) {
   //La función recibe un nombre y debe devolver el mismo que recibe pero con su primer letra en mayúscula
   //ej: Recibe "mario" ----> Devuelve "Mario"
   //Tu código:
-  var letra = nombre.charAt(0);
-  var letra2 = letra.toUpperCase();
-  nombre.replace(letra,letra2);
-  return nombre;
+  let inicial = nombre[0].toUpperCase();
+  let restoNombre = nombre.slice(1);
+  return inicial + restoNombre;
 
 }
 
@@ -29,7 +28,7 @@ function sumarArray(numeros, cb) {
   // Pasa el resultado a `cb`
   // No es necesario devolver nada
   //Tu código:
-  let suma = numeros.reduce( (a,b) => a + b);
+  let suma = numeros.reduce( (a,b) => a + b, 0);
   cb(suma);
 }
 
