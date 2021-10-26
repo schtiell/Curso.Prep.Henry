@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://us.123rf.com/450wm/peacestock123/peacestock1231904/peacestock123190400024/121275238-fondo-polivin%C3%ADlico-bajo-triangular-arrugado-geom%C3%A9trico-blanco-gris-del-gr%C3%A1fico-del-ejemplo-de-la-pen.jpg?ver=6);
+}
+
+h1 {
+    color: #F1948A;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background: #F4F6F7;
+    padding: 50px;
+    border: 1px solid #000000;
+    display: flex;
+    flex-direction: row;
+
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+
+}
+
+div{
+    margin: auto;
+}
